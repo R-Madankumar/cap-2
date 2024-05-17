@@ -1,0 +1,50 @@
+.d-block {
+    border-radius: 50%;
+}
+.btn {
+    background: #6dc3c3;
+    background-image: -webkit-linear-gradient(top, #6dc3c3,#6dc3c3);
+    background-image: -moz-linear-gradient(top, #6dc3c3,#6dc3c3);
+    background-image: -ms-linear-gradient(top, #6dc3c3,#6dc3c3);
+    background-image: -o-linear-gradient(top, #6dc3c3,#6dc3c3);
+    background-image: linear-gradient(to bottom,#6dc3c3, #6dc3c3);
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    font-family: "Montserrat", sans-serif;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  .web>.anime{
+    float: left;
+  }
+  .parent {
+    display: grid;
+    grid-template-columns: 0.5fr 1fr;
+    grid-template-rows: repeat(1, 1fr);
+    width: 50%;
+    margin: 100px auto 0 auto;
+    text-align: left;
+    row-gap: 20px;
+    column-gap :10px;
+  }
+  h1{
+   text-align: center;
+  }
+
+    
+  .a{
+    font-family: Sacramento;
+    color:#6dc3c3 ;
+  }
+  .uv{
+    background-color:#6dc3c3 ;
+
+  }
+
+  p{
+    font-family: Montserrat;;
+  }
+  
